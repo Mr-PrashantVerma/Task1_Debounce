@@ -1,0 +1,29 @@
+body {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  font-size: 24px;
+  font-weight: bold;
+  height: 100vh;
+  margin: 0;
+  background-color: #bade7d;
+}
+button {
+  margin: 25px 12px 0 6px;
+  width: 181px;
+  height: 26px;
+  font-size: large;
+  border-radius: 5px;
+  border: aliceblue;
+}
+input {
+  margin: 0 0 0 0;
+  width: 400px;
+  height: 26px;
+  font-size: large;
+  border-radius: 15px;
+  border: aliceblue;
+  text-align: center;
+}
